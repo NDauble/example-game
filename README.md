@@ -1,2 +1,3 @@
 # example-game
-A simple example unity game
+A test example for unity game 
+...Life is good.
